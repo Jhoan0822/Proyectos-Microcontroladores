@@ -53,3 +53,22 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+# Archivos de compilación y binarios
+[Dd]ebug/
+[Rr]elease/
+*.o
+*.obj
+*.elf
+*.hex
+*.bin
+*.map
+
+# Archivos de Atmel/Microchip Studio y Visual Studio
+*.atsln
+*.cproj.user
+*.suo
+*.user
