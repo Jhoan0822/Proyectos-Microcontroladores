@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author [Tu Nombre]
+ * @author Jhoan Eduardo Saldarriaga Serna
  * @brief AVR Music Player for a Piezo Buzzer
  * @version 2.0
  * @date 2024-07-05
