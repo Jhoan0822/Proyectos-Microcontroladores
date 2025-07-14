@@ -47,7 +47,4 @@ El proyecto usa CMake, lo que facilita su compilación en diferentes plataformas
     ```
 
 ## Demo de Funcionamiento
-
-**(¡Acción para ti!)** Graba una pequeña animación de tu terminal mientras juegas y guárdala como un GIF. ¡Es muy fácil de hacer y se ve genial! Puedes usar herramientas como `asciinema` o `Peek`.
-
-`![Demo del Juego del Ahorcado en Consola](demo.gif)`
+![Demo del Juego del Ahorcado en Consola](demo.gif)
