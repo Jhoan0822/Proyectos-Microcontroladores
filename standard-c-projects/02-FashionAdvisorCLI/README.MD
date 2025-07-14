@@ -44,11 +44,33 @@ El proyecto está configurado para ser compilado con CMake.
     make
     ```
 
-4.  **Ejecuta el programa:**
+## Cómo Compilar y Ejecutar
+El proyecto está configurado para ser compilado con CMake.
+
+1.  **Navega a la carpeta del proyecto:**
     ```bash
-    ./AsesorsinF
+    cd standard-c-projects/02-FashionAdvisorCLI
     ```
 
+2.  **Crea una carpeta de build y entra en ella:**
+    ```bash
+    mkdir build && cd build
+    ```
+
+3.  **Genera los archivos de compilación y compila el proyecto:**
+    ```bash
+    cmake ..
+    make
+    ```
+
+4.  **Ejecuta el programa:**
+    ```bash
+    # En Linux/macOS
+    ./FashionAdvisorCLI
+
+    # En Windows Command Prompt
+    FashionAdvisorCLI.exe
+    ```
 ## Ejemplo de Flujo de Usuario
 1.  El programa pide la primera característica. El usuario elige `(1) Color de ojos`.
 2.  El programa pide el color. El usuario elige `(2) Brown`.
