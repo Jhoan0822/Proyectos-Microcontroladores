@@ -1,4 +1,4 @@
-# Proyecto 06: Generador de Frecuencias con Timer0 e Interrupción
+# Proyecto 04: Generador de Frecuencias con Timer0 e Interrupción
 
 Este proyecto es una demostración concisa y eficiente de cómo generar una señal de onda cuadrada utilizando el **Timer0 de 8 bits** de un microcontrolador ATmega32A. A diferencia de un generador basado en Timer1, este enfoque es ideal para cuando el temporizador de 16 bits está ocupado en otra tarea o cuando los requisitos de frecuencia no necesitan la alta resolución de 16 bits.
 
