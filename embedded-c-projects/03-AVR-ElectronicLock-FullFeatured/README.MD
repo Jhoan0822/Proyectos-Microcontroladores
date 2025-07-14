@@ -44,7 +44,3 @@ El sistema está organizado en varios módulos de software, cada uno con una res
 *   **Entrada:** Teclado Matricial 4x4 y dos botones para interrupciones externas.
 *   **Actuador:** Un motor DC con su correspondiente driver (ej. L293D o un transistor MOSFET).
 *   **Componentes Adicionales:** Protoboard, cables, etc.
-
-
-
-`[Ver el video de demostración completo en YouTube](https://youtu.be/ENLACE_A_TU_VIDEO)`
