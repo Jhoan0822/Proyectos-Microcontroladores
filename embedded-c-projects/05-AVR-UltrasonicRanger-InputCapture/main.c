@@ -3,7 +3,7 @@
 #include <avr/interrupt.h>
 /**
  * @file main.c
- * @author [Tu Nombre]
+ * @author Jhoan Eduardo Saldarriaga Serna
  * @brief Ultrasonic Distance Sensor (HC-SR04) Driver using Timer1 Input Capture
  * @version 1.0
  * @date 2024-07-05
