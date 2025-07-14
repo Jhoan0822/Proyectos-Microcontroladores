@@ -26,13 +26,3 @@ La distancia medida se muestra en una pantalla LCD 16x2, y un LED se enciende si
 *   **Pantalla:** LCD 16x2
 *   **Indicador:** 1x LED
 *   **Componentes Adicionales:** Protoboard, cables.
-
-## Esquema y Demostración
-
-**(¡Acción para ti!)** Un video o GIF es perfecto para este proyecto.
-1.  **Crea un esquema** simple en Fritzing/EasyEDA.
-2.  **Graba un video corto o un GIF** moviendo un objeto (como tu mano) delante del sensor y mostrando cómo la distancia en el LCD cambia en tiempo real. ¡Asegúrate de mostrar también cómo se enciende el LED cuando entras en el rango de 5-10 cm!
-
-`![Esquema del Medidor Ultrasónico](esquema.png)`
-
-`![Demostración del Sensor HC-SR04](demo.gif)`
