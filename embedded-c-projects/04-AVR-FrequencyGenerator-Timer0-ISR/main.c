@@ -1,6 +1,6 @@
 /**
  * @file main.c
- * @author [Tu Nombre]
+ * @author Jhoan Eduardo Saldarriaga Serna
  * @brief 8-bit Square Wave Frequency Generator using Timer0
  * @version 1.0
  * @date 2024-07-05
