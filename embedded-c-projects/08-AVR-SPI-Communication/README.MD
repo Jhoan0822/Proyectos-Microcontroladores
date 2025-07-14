@@ -1,4 +1,4 @@
-# Proyecto 8: Sistema de Adquisición y Monitoreo de Datos vía SPI
+# Proyecto 08: Sistema de Adquisición y Monitoreo de Datos vía SPI
 
 Este proyecto implementa un sistema distribuido completo utilizando el protocolo **SPI (Serial Peripheral Interface)** para comunicar dos microcontroladores ATmega32A. El sistema simula una aplicación real de **adquisición y monitoreo de datos (DAQ)**.
 
