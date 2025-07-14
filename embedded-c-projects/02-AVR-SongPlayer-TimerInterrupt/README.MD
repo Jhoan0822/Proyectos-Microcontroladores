@@ -21,14 +21,6 @@ El buzzer se conecta directamente entre el pin de salida y GND.
 *   **Pin Positivo (+) del Buzzer:** `PD5` del ATmega32A
 *   **Pin Negativo (-) del Buzzer:** `GND`
 
-`![Esquema de conexión](esquema.png)` (¡Acción para ti! Crea un esquema simple en Fritzing/EasyEDA o toma una foto clara de tu montaje).
-
-## Video de Demostración
-
-**(¡Acción para ti!)** Graba un video corto del proyecto funcionando. ¡El audio es la clave aquí! No necesita ser un GIF. Sube el video a YouTube como "no listado" y enlaza aquí, o conviértelo a un GIF con audio si es posible.
-
-`[Ver el video de demostración en YouTube](https://youtu.be/ENLACE_A_TU_VIDEO)`
-
 ## Cómo Funciona: Deep Dive Técnico
 El núcleo del proyecto es la función `tone()`.
 1.  **Cálculo de Frecuencia:** Para una frecuencia `f` dada, el valor de comparación `OCR1A` se calcula con la fórmula `OCR1A = (F_CPU / (2 * N * f)) - 1`, donde `N` es el valor del prescaler. El código elige el prescaler más pequeño posible para mantener la máxima resolución.
